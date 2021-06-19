@@ -1,6 +1,6 @@
 ###  Hi there 😄
 
-star77sa.github.io/TIL-blog/
+http://star77sa.github.io/TIL-blog/
 
 https://star77sa.github.io/
 
