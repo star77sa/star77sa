@@ -4,7 +4,7 @@ https://star77sa.github.io/TIL-Blog/
 
 https://star77sa.github.io/
 
-- 🌱 I’m currently learning `python`, `Data analysis`
+- 🌱 I’m currently learning `Python`, `Data analysis`
 
 <!--
 **star77sa/star77sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
