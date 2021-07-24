@@ -1,4 +1,4 @@
-###  Hi there 😄
+안녕하세요.
 
 - 이름 : 고경수
 - 이메일 : star77sa@naver.com
@@ -9,9 +9,9 @@
   |---|------|----|----|
   |Dacon|구내식당 식수 인원 예측 AI 경진대회|51/481|11%|
 
-https://star77sa.github.io/TIL-Blog/
+Github Blog : https://star77sa.github.io/TIL-Blog/
 
-https://star77sa.github.io/
+CV page : https://star77sa.github.io/
 
 - 🌱 I’m currently learning `Python`, `Data analysis`
 
