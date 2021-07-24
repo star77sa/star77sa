@@ -12,9 +12,7 @@ AI대학원 진학을 목표로 공부하고있습니다.
   |---|-------|----|----|
   |Dacon|[구내식당 식수 인원 예측 AI 경진대회](https://github.com/star77sa/DACON-The_number_of_diners_in_the_cafeteria_Prediction)|51/481|11%|
 
-Github Blog : https://star77sa.github.io/TIL-Blog/
-
-CV page : https://star77sa.github.io/
+[Github Blog](https://star77sa.github.io/TIL-Blog/), [CV page](https://star77sa.github.io/)
 
 - 🌱 I’m currently learning `Python`, `Data analysis`
 
