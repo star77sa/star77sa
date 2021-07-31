@@ -18,7 +18,7 @@ AI대학원 진학을 목표로 공부하고있습니다.
 - Blog : [Github Blog](https://star77sa.github.io/TIL-Blog/)<!--, [CV page](https://star77sa.github.io/)--> 
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{star77sa})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
 
 - 🌱 I’m currently learning `Python`, `Data analysis`
 
