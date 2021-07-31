@@ -18,9 +18,18 @@ AI대학원 진학을 목표로 공부하고있습니다.
 - Blog : [Github Blog](https://star77sa.github.io/TIL-Blog/)<!--, [CV page](https://star77sa.github.io/)--> 
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
 
 - 🌱 I’m currently learning `Python`, `Data analysis`
+
+
 
 <!--
 **star77sa/star77sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
