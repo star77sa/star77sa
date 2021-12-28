@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 
-AI대학원 진학을 목표로 공부하고있습니다.
-
 - 이름 : 고경수
 - 이메일 : star77sa@naver.com
 - 학력:
