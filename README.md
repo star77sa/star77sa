@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 
-- 이름 : 고경수
-- 이메일 : star77sa@naver.com
-- 학력:
-  - 전북대학교 통계학과, 컴퓨터공학과 (3-1 재)
+- Name : 고경수
+- Email : star77sa@naver.com
+- Education: 전북대학교 통계학/컴퓨터공학과 3학년 재학중
+- Award:
+  - 2022 데이터톤 경진대회 대상
+  - 전북대학교 통계학과 빅데이터 분석 경진대회 최우수상
+  - 2021 데이터 크리에이터 캠프 최우수상
 <!--  
 - 데이터 분석 대회
   |대회|대회명|순위|상위|
