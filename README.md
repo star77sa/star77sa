@@ -2,7 +2,7 @@
 
 
 - Name : 고경수 
-- Email : star77sa@naver.com
+- Email : star77sa@naver.com 
 - Education: 전북대학교 통계학/컴퓨터공학 3학년 재학중
 - Award:
   - 2022 데이터톤 경진대회 대상
