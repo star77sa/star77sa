@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 
-- Name : 고경수        
+- Name : 고경수         
 - Email : star77sa@naver.com 
 - Education: 전북대학교 통계학/컴퓨터공학 3학년 재학중
 - Award:
