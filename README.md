@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 
-- 🌱 I’m currently learning `Algorithm`, `Graph`, `Object Detection`
+- 🌱 I’m currently learning `Mathematical statistics`, `Regression analysis`, `NLP`
 
 
 
