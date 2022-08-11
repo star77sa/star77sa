@@ -36,7 +36,7 @@
   |Dacon|[구내식당 식수 인원 예측 AI 경진대회](https://github.com/star77sa/DACON-The_number_of_diners_in_the_cafeteria_Prediction)|51/481|11%|
 -->
 - Blog : [Github Blog](https://star77sa.github.io/TIL-Blog/)<!--, [CV page](https://star77sa.github.io/)--> 
-
+- Notion : [Kyeongsoo Ko](https://ksko.notion.site/ksko/Kyeongsoo-Ko-8383246d72ab463daba2b1f49f6486a1)
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
 -->
