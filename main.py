@@ -31,7 +31,7 @@ markdown_text = """
   |Dacon|[구내식당 식수 인원 예측 AI 경진대회](https://github.com/star77sa/DACON-The_number_of_diners_in_the_cafeteria_Prediction)|51/481|11%|
 -->
 - Notion : [Notion](https://ksko.notion.site/)
-- Blog : [Github Blog](https://star77sa.github.io/TIL-Blog/)<!--, [CV page](https://star77sa.github.io/)--> 
+- Blog : [Tistory](https://ksko0424.tistory.com/)    [Github Blog](https://star77sa.github.io/TIL-Blog/)
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
 -->
