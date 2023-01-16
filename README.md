@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
+[[conda] 아나콘다 가상환경 세팅하기](https://ksko0424.tistory.com/4) - Jan 17, 2023<br>
 [컴퓨터비전 용어 정리](https://ksko0424.tistory.com/3) - Jan 17, 2023<br>
 [DeepFaceLab 사용 방법 (Window)](https://ksko0424.tistory.com/2) - Jan 16, 2023<br>
