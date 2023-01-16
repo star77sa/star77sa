@@ -11,24 +11,13 @@
   - 2021 데이터 크리에이터 캠프 최우수상
   - 2021 성적우수 총장상
 
-- Work Experience:
-  - GIST AI Lab 인턴 (2022.01 ~ 2022.02)
-
-- Experience:
-  - 한국통계학회 2022년 하계학술논문발표회 포스터논문 발표
-  - 네이버 커넥츠 소프트웨어야 놀자 대학생 멘토
-  - 2022 COSS 빅데이터 혁신공유대학 서포터즈
-  - 전북대학교 자연과학대학 빅데이터 동아리 멘토
-  - 전북대학교 혁신교육개발원 학습튜터링(통계수학) 멘토
-  - 전북대학교 혁신교육개발원 BSM클리닉 수학 조교 <!-- (2021.04 ~ 2021.06)  -->
-  - 2020 동계 어학연수 참여(University of San Jose)
-  - BigContest 홍수 유입량 예측 경진대회 참가
-  - Dacon 구내식당 식수인원 예측 AI 경진대회 참가
-  
 - Scholarships
   - 전북 차세대 과학인재 장학금
   - 국가우수장학(이공계)
   - 성적 우수 장학금 (2018-2, 2021-1)
+
+- Work Experience:
+  - GIST AI Lab 인턴 (2022.01 ~ 2022.02)
 <!--  
 - 데이터 분석 대회
   |대회|대회명|순위|상위|
@@ -46,7 +35,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 
-- 🌱 I’m currently learning `Mathematical statistics`, `NLP`
+- 🌱 I’m currently learning `Mathematical statistics`, `Computer Vision`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar77sa&count_bg=%234100EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
 
