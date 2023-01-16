@@ -55,4 +55,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Recent blog posts
 [DeepFaceLab 사용 방법 (Window)](https://ksko0424.tistory.com/2) - Jan 16, 2023<br>
