@@ -1,5 +1,5 @@
-import feedparser, datetime
- 
+import feedparser, datetime, numpy
+
 tistory_blog_uri="https://ksko0424.tistory.com/"
 feed = feedparser.parse(tistory_blog_uri+"/rss")
  
@@ -64,12 +64,13 @@ Here are some ideas to get you started:
 """ # list of blog posts will be appended here
  
 lst = []
-
+random = np.random.randint(0, 10)
 
 for i in feed['entries']:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
+    markdown_text += ' '*random
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
