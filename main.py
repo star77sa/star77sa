@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Recent blog posts
 """ # list of blog posts will be appended here
  
 lst = []
