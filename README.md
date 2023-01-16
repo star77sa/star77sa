@@ -56,4 +56,5 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
+[컴퓨터비전 용어 정리](https://ksko0424.tistory.com/3) - Jan 17, 2023<br>
 [DeepFaceLab 사용 방법 (Window)](https://ksko0424.tistory.com/2) - Jan 16, 2023<br>
