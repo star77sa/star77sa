@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 """ # list of blog posts will be appended here
  
 lst = []
-random = numpy.random.randint(0, 10)
+random = numpy.random.randint(0, 30)
 
 for i in feed['entries']:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
