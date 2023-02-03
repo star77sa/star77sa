@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Python] 줄 바꿈 없이 계속 출력하기](https://ksko0424.tistory.com/11) - Jan 19, 2023<br>
-                    [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
-                    [LaTeX로 영문 CV 작성하기 (feat. Overleaf)](https://ksko0424.tistory.com/9) - Jan 18, 2023<br>
-                    [[머신러닝] 앙상블(ensemble) 학습](https://ksko0424.tistory.com/6) - Jan 17, 2023<br>
-                    [[Python] 헷갈렸던 문법(코딩테스트 / 프로젝트)](https://ksko0424.tistory.com/5) - Jan 17, 2023<br>
-                    [[conda] 아나콘다 가상환경 세팅하기](https://ksko0424.tistory.com/4) - Jan 17, 2023<br>
-                    [컴퓨터비전 용어 정리](https://ksko0424.tistory.com/3) - Jan 17, 2023<br>
-                    [DeepFaceLab 사용 방법 (Window)](https://ksko0424.tistory.com/2) - Jan 16, 2023<br>
-                    
+      [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
+      [LaTeX로 영문 CV 작성하기 (feat. Overleaf)](https://ksko0424.tistory.com/9) - Jan 18, 2023<br>
+      [[머신러닝] 앙상블(ensemble) 학습](https://ksko0424.tistory.com/6) - Jan 17, 2023<br>
+      [[Python] 헷갈렸던 문법(코딩테스트 / 프로젝트)](https://ksko0424.tistory.com/5) - Jan 17, 2023<br>
+      [[conda] 아나콘다 가상환경 세팅하기](https://ksko0424.tistory.com/4) - Jan 17, 2023<br>
+      [컴퓨터비전 용어 정리](https://ksko0424.tistory.com/3) - Jan 17, 2023<br>
+      [DeepFaceLab 사용 방법 (Window)](https://ksko0424.tistory.com/2) - Jan 16, 2023<br>
+      
