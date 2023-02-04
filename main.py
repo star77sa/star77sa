@@ -63,10 +63,9 @@ Here are some ideas to get you started:
 ## Recent blog posts
 """ # list of blog posts will be appended here
  
-lst = []
 random = numpy.random.randint(0, 30)
 
-for i in feed['entries']:
+for i in feed['entries'][:7]:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
