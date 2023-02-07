@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
-          [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
-          [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 1)](https://ksko0424.tistory.com/13) - Feb 05, 2023<br>
-          [[컴퓨터비전] 컴퓨터 비전의 모든 것 (1. 컴퓨터 비전의 시작)](https://ksko0424.tistory.com/12) - Feb 04, 2023<br>
-          [[Python] 줄 바꿈 없이 계속 출력하기](https://ksko0424.tistory.com/11) - Jan 19, 2023<br>
-          [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
-          [LaTeX로 영문 CV 작성하기 (feat. Overleaf)](https://ksko0424.tistory.com/9) - Jan 18, 2023<br>
-          
+                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
+                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 1)](https://ksko0424.tistory.com/13) - Feb 05, 2023<br>
+                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (1. 컴퓨터 비전의 시작)](https://ksko0424.tistory.com/12) - Feb 04, 2023<br>
+                [[Python] 줄 바꿈 없이 계속 출력하기](https://ksko0424.tistory.com/11) - Jan 19, 2023<br>
+                [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
+                [LaTeX로 영문 CV 작성하기 (feat. Overleaf)](https://ksko0424.tistory.com/9) - Jan 18, 2023<br>
+                
