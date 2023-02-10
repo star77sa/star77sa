@@ -23,6 +23,7 @@ markdown_text = """
   - 성적 우수 장학금 (2018-2, 2021-1)
 
 - Work Experience:
+  - JBNU CV Lab 인턴 (2023.02 ~ Present)
   - GIST AI Lab 인턴 (2022.01 ~ 2022.02)
 <!--  
 - 데이터 분석 대회
