@@ -18,6 +18,7 @@
   - 성적 우수 장학금 (2018-2, 2021-1)
 
 - Work Experience:
+  - JBNU CV Lab 인턴 (2023.02 ~ Present)
   - GIST AI Lab 인턴 (2022.01 ~ 2022.02)
 <!--  
 - 데이터 분석 대회
@@ -38,7 +39,9 @@
 
 - 🌱 I’m currently learning `Mathematical statistics`, `Computer Vision`
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar77sa&count_bg=%234100EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 <!--
 **star77sa/star77sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,11 +59,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
-                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
-                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 1)](https://ksko0424.tistory.com/13) - Feb 05, 2023<br>
-                [[컴퓨터비전] 컴퓨터 비전의 모든 것 (1. 컴퓨터 비전의 시작)](https://ksko0424.tistory.com/12) - Feb 04, 2023<br>
-                [[Python] 줄 바꿈 없이 계속 출력하기](https://ksko0424.tistory.com/11) - Jan 19, 2023<br>
-                [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
-                [LaTeX로 영문 CV 작성하기 (feat. Overleaf)](https://ksko0424.tistory.com/9) - Jan 18, 2023<br>
-                
+[빅데이터혁신공유사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
+                  [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
+                  [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
+                  [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 1)](https://ksko0424.tistory.com/13) - Feb 05, 2023<br>
+                  [[컴퓨터비전] 컴퓨터 비전의 모든 것 (1. 컴퓨터 비전의 시작)](https://ksko0424.tistory.com/12) - Feb 04, 2023<br>
+                  [[Python] 줄 바꿈 없이 계속 출력하기](https://ksko0424.tistory.com/11) - Jan 19, 2023<br>
+                  [[Python] AttributeError: 'NoneType' object has no attribute 'copy'](https://ksko0424.tistory.com/10) - Jan 19, 2023<br>
+                  
