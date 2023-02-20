@@ -6,6 +6,7 @@
 - Email : star77sa@naver.com 
 - Education: 전북대학교 통계학/컴퓨터공학 4학년 재학중
 - Award:
+  - 2023 위밋 프로젝트 교육부 장관상
   - 2022 데이터톤 경진대회 대상
   - 2022 전북대학교 통계학과 빅데이터 분석 경진대회 1회 최우수상
   - 2022 전북대학교 통계학과 빅데이터 분석 경진대회 2회 우수상
@@ -60,10 +61,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (2. 연산자, 표현식, 데이터 조작)](https://ksko0424.tistory.com/20) - Feb 18, 2023<br>
-                             [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (1. 파이썬 기초)](https://ksko0424.tistory.com/19) - Feb 16, 2023<br>
-                             [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
-                             [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
-                             [빅데이터혁신공유대학 사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
-                             [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
-                             [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
-                             
+         [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (1. 파이썬 기초)](https://ksko0424.tistory.com/19) - Feb 16, 2023<br>
+         [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
+         [빅데이터혁신공유대학 사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
+         
