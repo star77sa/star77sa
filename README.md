@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[논문 리뷰] VGGNet(2014)](https://ksko0424.tistory.com/23) - Mar 02, 2023<br>
-                             [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (4. 객체, 타입, 프로토콜)](https://ksko0424.tistory.com/22) - Feb 23, 2023<br>
-                             [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (3. 프로그램 구조와 제어 흐름)](https://ksko0424.tistory.com/21) - Feb 22, 2023<br>
-                             [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (2. 연산자, 표현식, 데이터 조작)](https://ksko0424.tistory.com/20) - Feb 22, 2023<br>
-                             [[Python] 파이써닉한 파이썬을 익히는 간결한 안내서 (1. 파이썬 기초)](https://ksko0424.tistory.com/19) - Feb 16, 2023<br>
-                             [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
-                             [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
-                             
+         [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
+         [빅데이터혁신공유대학 사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 1)](https://ksko0424.tistory.com/13) - Feb 05, 2023<br>
+         
