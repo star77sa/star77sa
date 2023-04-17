@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[논문 리뷰] ResNet(2016)](https://ksko0424.tistory.com/24) - Mar 09, 2023<br>
-                    [[논문 리뷰] VGGNet(2015)](https://ksko0424.tistory.com/23) - Mar 02, 2023<br>
-                    [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
-                    [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
-                    [빅데이터혁신공유대학 사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
-                    [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
-                    [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
-                    
+         [[논문 리뷰] VGGNet(2015)](https://ksko0424.tistory.com/23) - Mar 02, 2023<br>
+         [VSCode SSH 원격서버 접속하기](https://ksko0424.tistory.com/18) - Feb 15, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 2)](https://ksko0424.tistory.com/17) - Feb 13, 2023<br>
+         [빅데이터혁신공유대학 사업단 교과목개발 - 통계적사고와사회 동영상 제작 가이드(feat. 다빈치리졸브)](https://ksko0424.tistory.com/16) - Feb 10, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (3. Seg & Det - 1)](https://ksko0424.tistory.com/15) - Feb 05, 2023<br>
+         [[컴퓨터비전] 컴퓨터 비전의 모든 것 (2. 컴퓨터 비전과 딥러닝 - 2)](https://ksko0424.tistory.com/14) - Feb 05, 2023<br>
+         
