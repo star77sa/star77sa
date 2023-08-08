@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Pytorch] 파이토치 사전학습 모델 사용법](https://ksko0424.tistory.com/32) - May 15, 2023<br>
-                    [[Pytorch / Tensorflow] GPU 확인, 특정 GPU 사용 방법](https://ksko0424.tistory.com/31) - May 08, 2023<br>
-                    [libssl.so.10: cannot open shared object file: No such file or directory](https://ksko0424.tistory.com/30) - May 04, 2023<br>
-                    [[컴퓨터비전] Super Resolution](https://ksko0424.tistory.com/29) - May 01, 2023<br>
-                    [Linux에서 Anaconda 설치](https://ksko0424.tistory.com/28) - Apr 25, 2023<br>
-                    [vscode 주피터 커널 등록 / CUDA에 맞는 torch 설치](https://ksko0424.tistory.com/26) - Apr 21, 2023<br>
-                    [COCO, Pascal VOC data format (Object detection)](https://ksko0424.tistory.com/27) - Apr 21, 2023<br>
-                    
+                           [[Pytorch / Tensorflow] GPU 확인, 특정 GPU 사용 방법](https://ksko0424.tistory.com/31) - May 08, 2023<br>
+                           [libssl.so.10: cannot open shared object file: No such file or directory](https://ksko0424.tistory.com/30) - May 04, 2023<br>
+                           [[컴퓨터비전] Super Resolution](https://ksko0424.tistory.com/29) - May 01, 2023<br>
+                           [Linux에서 Anaconda 설치](https://ksko0424.tistory.com/28) - Apr 25, 2023<br>
+                           [vscode 주피터 커널 등록 / CUDA에 맞는 torch 설치](https://ksko0424.tistory.com/26) - Apr 21, 2023<br>
+                           [COCO, Pascal VOC data format (Object detection)](https://ksko0424.tistory.com/27) - Apr 21, 2023<br>
+                           
