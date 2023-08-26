@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [시계열 분석(Time Series Analysis)](https://ksko0424.tistory.com/34) - Aug 25, 2023<br>
-                          [[확률론] 1. Probability and counting](https://ksko0424.tistory.com/33) - Aug 24, 2023<br>
-                          [[Pytorch] 파이토치 사전학습 모델 사용법](https://ksko0424.tistory.com/32) - May 15, 2023<br>
-                          [[Pytorch / Tensorflow] GPU 확인, 특정 GPU 사용 방법](https://ksko0424.tistory.com/31) - May 08, 2023<br>
-                          [libssl.so.10: cannot open shared object file: No such file or directory](https://ksko0424.tistory.com/30) - May 04, 2023<br>
-                          [[컴퓨터비전] Super Resolution](https://ksko0424.tistory.com/29) - May 01, 2023<br>
-                          [Linux에서 Anaconda 설치](https://ksko0424.tistory.com/28) - Apr 25, 2023<br>
-                          
+              [[확률론] 1. Probability and counting](https://ksko0424.tistory.com/33) - Aug 24, 2023<br>
+              [[Pytorch] 파이토치 사전학습 모델 사용법](https://ksko0424.tistory.com/32) - May 15, 2023<br>
+              [[Pytorch / Tensorflow] GPU 확인, 특정 GPU 사용 방법](https://ksko0424.tistory.com/31) - May 08, 2023<br>
+              [libssl.so.10: cannot open shared object file: No such file or directory](https://ksko0424.tistory.com/30) - May 04, 2023<br>
+              [[컴퓨터비전] Super Resolution](https://ksko0424.tistory.com/29) - May 01, 2023<br>
+              [Linux에서 Anaconda 설치](https://ksko0424.tistory.com/28) - Apr 25, 2023<br>
+              
