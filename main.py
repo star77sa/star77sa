@@ -1,7 +1,7 @@
 import feedparser, datetime, numpy
 
-tistory_blog_url="https://ksko0424.tistory.com/"
-feed = feedparser.parse(tistory_blog_url+"/rss")
+tistory_blog_url="https://star77sa.github.io/"
+feed = feedparser.parse(tistory_blog_url+"/index.xml")
  
 markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 random = numpy.random.randint(0, 30)
 
 for i in feed['entries'][:7]:
-    dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
+    dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %Z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
     markdown_text += ' '*random
