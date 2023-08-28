@@ -35,7 +35,7 @@ markdown_text = """
 -->
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&title_bg=%235C5F64&logo=Notion&logo_color=%23F0F4F0&link=https://www.notion.so/ksko/Kyeongsoo-Ko-8383246d72ab463daba2b1f49f6486a1?pvs=4)](https://www.notion.so/ksko/Kyeongsoo-Ko-8383246d72ab463daba2b1f49f6486a1?pvs=4)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.tistory.com/)](https://ksko0424.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.tistory.com/)](https://star77sa.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B3%A0-8b7781206/)](https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B3%A0-8b7781206/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
 
