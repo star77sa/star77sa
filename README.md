@@ -30,8 +30,8 @@
 -->
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&title_bg=%235C5F64&logo=Notion&logo_color=%23F0F4F0&link=https://www.notion.so/ksko/Kyeongsoo-Ko-8383246d72ab463daba2b1f49f6486a1?pvs=4)](https://www.notion.so/ksko/Kyeongsoo-Ko-8383246d72ab463daba2b1f49f6486a1?pvs=4)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.tistory.com/)](https://ksko0424.tistory.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B3%A0-8b7781206/)](https://www.linkedin.com/in/%EA%B2%BD%EC%88%98-%EA%B3%A0-8b7781206/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://star77sa.github.io/)](https://star77sa.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/star77sa)](https://www.linkedin.com/in/star77sa)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
 
 
@@ -57,11 +57,6 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[시계열 분석(Time Series Analysis)](https://ksko0424.tistory.com/34) - Aug 25, 2023<br>
-             [[확률론] 1. Probability and counting](https://ksko0424.tistory.com/33) - Aug 24, 2023<br>
-             [[Pytorch] 파이토치 사전학습 모델 사용법](https://ksko0424.tistory.com/32) - May 15, 2023<br>
-             [[Pytorch / Tensorflow] GPU 확인, 특정 GPU 사용 방법](https://ksko0424.tistory.com/31) - May 08, 2023<br>
-             [libssl.so.10: cannot open shared object file: No such file or directory](https://ksko0424.tistory.com/30) - May 04, 2023<br>
-             [[컴퓨터비전] Super Resolution](https://ksko0424.tistory.com/29) - May 01, 2023<br>
-             [Linux에서 Anaconda 설치](https://ksko0424.tistory.com/28) - Apr 25, 2023<br>
-             
+[[확률론] 1. Probability and counting](https://star77sa.github.io/posts/확률론/1_probability_and_counting.html) - Aug 23, 2023<br>
+                        [2023.08.28 블로그 구축](https://star77sa.github.io/posts/etc/2023-08-28-블로그.html) - Dec 31, 2019<br>
+                        
