@@ -1,7 +1,7 @@
 import feedparser, datetime, numpy
 
-tistory_blog_url="https://star77sa.github.io/"
-feed = feedparser.parse(tistory_blog_url+"/index.xml")
+blog_url="https://star77sa.github.io/"
+feed = feedparser.parse(blog_url+"/index.xml")
  
 markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
