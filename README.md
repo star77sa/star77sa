@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[확률론] 1. Probability and counting](https://star77sa.github.io/posts/확률론/1_probability_and_counting.html) - Aug 23, 2023<br>
-                 [2023.08.28 블로그 구축](https://star77sa.github.io/posts/etc/2023-08-28-블로그.html) - Dec 31, 2019<br>
-                 
+                           [2023.08.28 블로그 구축](https://star77sa.github.io/posts/etc/2023-08-28-블로그.html) - Dec 31, 2019<br>
+                           
