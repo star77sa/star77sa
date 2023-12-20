@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [빅데이터 시대, 올바른 인사이트를 위한 통계 101 X 데이터분석](https://star77sa.github.io/posts/확률론/통계_101_X_데이터_분석.html) - Sep 13, 2023<br>
-                      [[확률론] 1. Probability and counting](https://star77sa.github.io/posts/확률론/1_probability_and_counting.html) - Aug 23, 2023<br>
-                      [2023.08.28 블로그 구축](https://star77sa.github.io/posts/etc/2023-08-28-블로그.html) - Dec 31, 2019<br>
-                      
+                           [[확률론] 1. Probability and counting](https://star77sa.github.io/posts/확률론/1_probability_and_counting.html) - Aug 23, 2023<br>
+                           [2023.08.28 블로그 구축](https://star77sa.github.io/posts/etc/2023-08-28-블로그.html) - Dec 31, 2019<br>
+                           
