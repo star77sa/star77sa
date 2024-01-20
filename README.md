@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [성능 평가 지표(회귀모델, 분류모델)](https://star77sa.github.io/posts/etc/모델_성능평가지표_정리.html) - Jan 18, 2024<br>
-                  [[논문 리뷰] Machine learning driven smart electric power system: Current trends and new perspectives(2020)](https://star77sa.github.io/posts/Paper/smartgrid1.html) - Jan 18, 2024<br>
-                  [2024 GIST-NVAITC Korea 강연 내용](https://star77sa.github.io/posts/etc/NVIDIA초청강연.html) - Jan 16, 2024<br>
-                  [데이터 과학](https://star77sa.github.io/posts/Statistics/데이터_분석.html) - Jan 10, 2024<br>
-                  [논문 읽다가 모르는 영단어 정리](https://star77sa.github.io/posts/etc/논문_영단어.html) - Dec 31, 2023<br>
-                  [논문 읽다가 모르겠거나 복습할 개념 정리](https://star77sa.github.io/posts/etc/논문_개념.html) - Dec 31, 2023<br>
-                  [통계 101 X 데이터분석](https://star77sa.github.io/posts/Statistics/통계_101_X_데이터_분석.html) - Sep 13, 2023<br>
-                  
+                      [[논문 리뷰] Machine learning driven smart electric power system: Current trends and new perspectives(2020)](https://star77sa.github.io/posts/Paper/smartgrid1.html) - Jan 18, 2024<br>
+                      [2024 GIST-NVAITC Korea 강연 내용](https://star77sa.github.io/posts/etc/NVIDIA초청강연.html) - Jan 16, 2024<br>
+                      [데이터 과학](https://star77sa.github.io/posts/Statistics/데이터_분석.html) - Jan 10, 2024<br>
+                      [논문 읽다가 모르는 영단어 정리](https://star77sa.github.io/posts/etc/논문_영단어.html) - Dec 31, 2023<br>
+                      [논문 읽다가 모르겠거나 복습할 개념 정리](https://star77sa.github.io/posts/etc/논문_개념.html) - Dec 31, 2023<br>
+                      [통계 101 X 데이터분석](https://star77sa.github.io/posts/Statistics/통계_101_X_데이터_분석.html) - Sep 13, 2023<br>
+                      
