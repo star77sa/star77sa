@@ -35,7 +35,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
 
 
-- 🌱 I’m currently learning `Mathematical Statistics`, `Time Series Analysis`
+- 🌱 I’m currently learning `Linear Algebra`, `Signals and Systems`
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar77sa&count_bg=%234100EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [선형대수학](https://star77sa.github.io/posts/Linear_Algebra/선형대수학.html) - Jan 22, 2024<br>
-       [Python_3 seaborn, plotnine](https://star77sa.github.io/posts/Python/python_3.html) - Jan 22, 2024<br>
-       [Python_2 matplotlib](https://star77sa.github.io/posts/Python/python_2.html) - Jan 22, 2024<br>
-       [Python_1 자료형, Numpy, Pandas](https://star77sa.github.io/posts/Python/python_1.html) - Jan 21, 2024<br>
-       [성능 평가 지표(회귀모델, 분류모델)](https://star77sa.github.io/posts/etc/모델_성능평가지표_정리.html) - Jan 18, 2024<br>
-       [[논문 리뷰] Machine learning driven smart electric power system: Current trends and new perspectives(2020)](https://star77sa.github.io/posts/Paper/smartgrid1.html) - Jan 18, 2024<br>
-       [2024 GIST-NVAITC Korea 강연 내용](https://star77sa.github.io/posts/etc/NVIDIA초청강연.html) - Jan 16, 2024<br>
-       
+                 [Python_3 seaborn, plotnine](https://star77sa.github.io/posts/Python/python_3.html) - Jan 22, 2024<br>
+                 [Python_2 matplotlib](https://star77sa.github.io/posts/Python/python_2.html) - Jan 22, 2024<br>
+                 [Python_1 자료형, Numpy, Pandas](https://star77sa.github.io/posts/Python/python_1.html) - Jan 21, 2024<br>
+                 [성능 평가 지표(회귀모델, 분류모델)](https://star77sa.github.io/posts/etc/모델_성능평가지표_정리.html) - Jan 18, 2024<br>
+                 [[논문 리뷰] Machine learning driven smart electric power system: Current trends and new perspectives(2020)](https://star77sa.github.io/posts/Paper/smartgrid1.html) - Jan 18, 2024<br>
+                 [2024 GIST-NVAITC Korea 강연 내용](https://star77sa.github.io/posts/etc/NVIDIA초청강연.html) - Jan 16, 2024<br>
+                 
