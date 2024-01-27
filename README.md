@@ -7,7 +7,7 @@
 - Education:
   - GIST M.S. in AI Graduate School
   - JBNU B.S. in Statistics & Computer Science Engineering (Double Major)
-  
+<!--
 - Award:
   - 2023 위밋 프로젝트 교육부 장관상
   - 2022 데이터톤 경진대회 대상
@@ -24,7 +24,7 @@
 - Work Experience:
   - JBNU CV Lab 인턴 (2023.02 ~ 2023.08)
   - GIST AI Lab 인턴 (2022.01 ~ 2022.02)
-  
+-->
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
 -->
