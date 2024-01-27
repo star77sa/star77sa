@@ -18,7 +18,7 @@
 
 - Scholarships
   - 전북 차세대 과학인재 장학금
-  - 국가우수장학(이공계)
+  - 이공계 국가 우수 장학
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
 -->
