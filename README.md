@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [신호 및 시스템](https://star77sa.github.io/posts/Signal_Processing/signal_system.html) - Feb 21, 2024<br>
-             [[통계전산] 선형대수학](https://star77sa.github.io/posts/Statistics/SC_2.html) - Feb 13, 2024<br>
-             [[통계전산] 통계](https://star77sa.github.io/posts/Statistics/SC_1.html) - Jan 29, 2024<br>
-             [[데이터시각화] 4. Plotly, 판다스 백엔드](https://star77sa.github.io/posts/Python/vis_Plotly.html) - Jan 25, 2024<br>
-             [[데이터시각화] 3. Pandas - lambda df:의 활용, MultiIndex의 이해, tidydata의 이해](https://star77sa.github.io/posts/Python/vis_tidydata.html) - Jan 24, 2024<br>
-             [[데이터시각화] 2. Seaborn](https://star77sa.github.io/posts/Python/vis_Seaborn.html) - Jan 23, 2024<br>
-             [[데이터시각화] 1. Matplotlib](https://star77sa.github.io/posts/Python/vis_matplotlib.html) - Jan 22, 2024<br>
-             
+                             [[통계전산] 선형대수학](https://star77sa.github.io/posts/Statistics/SC_2.html) - Feb 13, 2024<br>
+                             [[통계전산] 통계](https://star77sa.github.io/posts/Statistics/SC_1.html) - Jan 29, 2024<br>
+                             [[데이터시각화] 4. Plotly, 판다스 백엔드](https://star77sa.github.io/posts/Python/vis_Plotly.html) - Jan 25, 2024<br>
+                             [[데이터시각화] 3. Pandas - lambda df:의 활용, MultiIndex의 이해, tidydata의 이해](https://star77sa.github.io/posts/Python/vis_tidydata.html) - Jan 24, 2024<br>
+                             [[데이터시각화] 2. Seaborn](https://star77sa.github.io/posts/Python/vis_Seaborn.html) - Jan 23, 2024<br>
+                             [[데이터시각화] 1. Matplotlib](https://star77sa.github.io/posts/Python/vis_matplotlib.html) - Jan 22, 2024<br>
+                             
