@@ -7,23 +7,24 @@ markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 
-- Name : 고경수         
-- Email : star77sa@gmail.com 
+- Name : KyeongSoo Ko         
+- Email : ksko0424@gm.gist.ac.kr 
 - Education:
   - GIST M.S. in AI Graduate School
   - JBNU B.S. in Statistics & Computer Science Engineering (Double Major)
 
 - Award:
-  - 2023 위밋 프로젝트 교육부 장관상
-  - 2022 데이터톤 경진대회 대상
-  - 2022 전북대학교 통계학과 빅데이터 분석 경진대회 1회 최우수상
-  - 2022 전북대학교 통계학과 빅데이터 분석 경진대회 2회 우수상
-  - 2021 데이터 크리에이터 캠프 최우수상
-  - 2021 성적우수 총장상
+  - Minister of Education Award, 2023 WE-MEET Project
+  - 1st Award, 2022 Dataton Competition
+  - 1st Award, The 1st JBNU Statistics Bigdata Analysis Competition
+  - 2nd Award, The 2nd JBNU Statistics Bigdata Analysis Competition
+  - 2nd Award, Data Creator Camp Hackathon
+  - JBNU President's Award(2021 Academic Excellence Award)
 
 - Scholarships
-  - 전북 차세대 과학인재 장학
-  - 이공계 국가 우수 장학
+  - National Science & Technology Scholarship(2022-2023)
+  - Jeonbuk Next Generation Science Talent Scholarship(2022)
+  - Academic Excellence Scholarship(2018, 2021)
 
 
   
