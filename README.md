@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Paper Review] Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains(2020)](https://star77sa.github.io/posts/Paper/FourierFeature.html) - Jul 02, 2024<br>
-                            [[Random Process] Stochastic Process](https://star77sa.github.io/posts/Statistics/RP_final.html) - Jun 13, 2024<br>
-                            [[Random Process] Probability, Random Variable](https://star77sa.github.io/posts/Statistics/RP_mid.html) - Jun 13, 2024<br>
-                            [Signal and System, DSP](https://star77sa.github.io/posts/Signal_Processing/dsp.html) - Jun 12, 2024<br>
-                            [[통계전산] 통계](https://star77sa.github.io/posts/Statistics/SC_1.html) - Jan 29, 2024<br>
-                            [[데이터시각화] 4. Plotly, 판다스 백엔드](https://star77sa.github.io/posts/Python/vis_Plotly.html) - Jan 25, 2024<br>
-                            [[데이터시각화] 3. Pandas - lambda df:의 활용, MultiIndex의 이해, tidydata의 이해](https://star77sa.github.io/posts/Python/vis_tidydata.html) - Jan 24, 2024<br>
-                            
+                          [[Random Process] Stochastic Process](https://star77sa.github.io/posts/Statistics/RP_final.html) - Jun 13, 2024<br>
+                          [[Random Process] Probability, Random Variable](https://star77sa.github.io/posts/Statistics/RP_mid.html) - Jun 13, 2024<br>
+                          [Signal and System, DSP](https://star77sa.github.io/posts/Signal_Processing/dsp.html) - Jun 12, 2024<br>
+                          [[통계전산] 통계](https://star77sa.github.io/posts/Statistics/SC_1.html) - Jan 29, 2024<br>
+                          [[데이터시각화] 4. Plotly, 판다스 백엔드](https://star77sa.github.io/posts/Python/vis_Plotly.html) - Jan 25, 2024<br>
+                          [[데이터시각화] 3. Pandas - lambda df:의 활용, MultiIndex의 이해, tidydata의 이해](https://star77sa.github.io/posts/Python/vis_tidydata.html) - Jan 24, 2024<br>
+                          
