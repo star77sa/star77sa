@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [VSCode 주피터 커널 등록 / CUDA에 맞는 torch 설치](https://star77sa.github.io/posts/잡동사니/CUDA_Pytorch.html) - Jul 25, 2024<br>
-  [[Paper Review] Taskonomy: Disentangling Task Transfer Learning(2018)](https://star77sa.github.io/posts/Paper/Taskonomy.html) - Jul 24, 2024<br>
-  [정보이론과 부호화](https://star77sa.github.io/posts/Information_Theory/Info_coding.html) - Jul 09, 2024<br>
-  [[Paper Review] Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains(2020)](https://star77sa.github.io/posts/Paper/FourierFeature.html) - Jul 02, 2024<br>
-  [[Random Process] Stochastic Process](https://star77sa.github.io/posts/Statistics/RP_final.html) - Jun 13, 2024<br>
-  [[Random Process] Probability, Random Variable](https://star77sa.github.io/posts/Statistics/RP_mid.html) - Jun 13, 2024<br>
-  [Signal and System, DSP](https://star77sa.github.io/posts/Signal_Processing/dsp.html) - Jun 12, 2024<br>
-  
+                            [[Paper Review] Taskonomy: Disentangling Task Transfer Learning(2018)](https://star77sa.github.io/posts/Paper/Taskonomy.html) - Jul 24, 2024<br>
+                            [정보이론과 부호화](https://star77sa.github.io/posts/Information_Theory/Info_coding.html) - Jul 09, 2024<br>
+                            [[Paper Review] Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains(2020)](https://star77sa.github.io/posts/Paper/FourierFeature.html) - Jul 02, 2024<br>
+                            [[Random Process] Stochastic Process](https://star77sa.github.io/posts/Statistics/RP_final.html) - Jun 13, 2024<br>
+                            [[Random Process] Probability, Random Variable](https://star77sa.github.io/posts/Statistics/RP_mid.html) - Jun 13, 2024<br>
+                            [Signal and System, DSP](https://star77sa.github.io/posts/Signal_Processing/dsp.html) - Jun 12, 2024<br>
+                            
