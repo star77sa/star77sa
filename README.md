@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[Information Theory](https://star77sa.github.io/posts/Information_Theory/info_study.html) - Aug 09, 2024<br>
-     [[Paper Review] End-to-End Optimized Image Compression(ICLR 2017)](https://star77sa.github.io/posts/Paper/End-to-End_Optimized_Image_Compression.html) - Aug 09, 2024<br>
-     [[Paper Review] Taskonomy: Disentangling Task Transfer Learning(2018)](https://star77sa.github.io/posts/Paper/Taskonomy.html) - Jul 24, 2024<br>
-     [정보이론과 부호화](https://star77sa.github.io/posts/Information_Theory/Info_coding.html) - Jul 09, 2024<br>
-     [[Paper Review] Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains(2020)](https://star77sa.github.io/posts/Paper/FourierFeature.html) - Jul 02, 2024<br>
-     [[Random Process] Stochastic Process](https://star77sa.github.io/posts/Statistics/RP_final.html) - Jun 13, 2024<br>
-     [[Random Process] Probability, Random Variable](https://star77sa.github.io/posts/Statistics/RP_mid.html) - Jun 13, 2024<br>
-     
+[[Algorithm] 3. 알고리즘의 효율 분석](https://star77sa.github.io/posts/Algorithm/Algorithm_1.html) - Aug 10, 2024<br>
+   [[Paper Review] Denoising diffusion probabilistic models(NIPS 2020)](https://star77sa.github.io/posts/Paper/Denoising_diffusion_probabilistic_models.html) - Aug 10, 2024<br>
+   [Information Theory](https://star77sa.github.io/posts/Information_Theory/info_study.html) - Aug 09, 2024<br>
+   [[Paper Review] End-to-End Optimized Image Compression(ICLR 2017)](https://star77sa.github.io/posts/Paper/End-to-End_Optimized_Image_Compression.html) - Aug 09, 2024<br>
+   [[Paper Review] Taskonomy: Disentangling Task Transfer Learning(2018)](https://star77sa.github.io/posts/Paper/Taskonomy.html) - Jul 24, 2024<br>
+   [정보이론과 부호화](https://star77sa.github.io/posts/Information_Theory/Info_coding.html) - Jul 09, 2024<br>
+   [[Paper Review] Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains(2020)](https://star77sa.github.io/posts/Paper/FourierFeature.html) - Jul 02, 2024<br>
+   
