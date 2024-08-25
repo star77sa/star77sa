@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[[Paper Review] Auto-Encoding Variational Bayes(ICLR 2014)](https://star77sa.github.io/posts/Paper/VAE.html) - Aug 19, 2024<br>
-                         [Maximum Likelihood Estimation(MLE)](https://star77sa.github.io/posts/Statistics/MLE.html) - Aug 17, 2024<br>
-                         [[Algorithm] 3. 알고리즘의 효율 분석](https://star77sa.github.io/posts/Algorithm/Algorithm_1.html) - Aug 10, 2024<br>
-                         [[Paper Review] Denoising diffusion probabilistic models(NIPS 2020)](https://star77sa.github.io/posts/Paper/Denoising_diffusion_probabilistic_models.html) - Aug 10, 2024<br>
-                         [Information Theory](https://star77sa.github.io/posts/Information_Theory/info_study.html) - Aug 09, 2024<br>
-                         [[Paper Review] End-to-End Optimized Image Compression(ICLR 2017)](https://star77sa.github.io/posts/Paper/End-to-End_Optimized_Image_Compression.html) - Aug 09, 2024<br>
-                         [[Paper Review] Taskonomy: Disentangling Task Transfer Learning(2018)](https://star77sa.github.io/posts/Paper/Taskonomy.html) - Jul 24, 2024<br>
-                         
+[Data Science](https://star77sa.github.io/posts/Statistics/데이터_분석.html) - Aug 24, 2024<br>
+   [[Algorithm] 4. 코딩 테스트 필수 문법](https://star77sa.github.io/posts/Algorithm/Algorithm_2.html) - Aug 23, 2024<br>
+   [[Paper Review] Auto-Encoding Variational Bayes(ICLR 2014)](https://star77sa.github.io/posts/Paper/VAE.html) - Aug 19, 2024<br>
+   [Maximum Likelihood Estimation(MLE)](https://star77sa.github.io/posts/Statistics/MLE.html) - Aug 17, 2024<br>
+   [[Algorithm] 3. 알고리즘의 효율 분석](https://star77sa.github.io/posts/Algorithm/Algorithm_1.html) - Aug 10, 2024<br>
+   [[Paper Review] Denoising diffusion probabilistic models(NIPS 2020)](https://star77sa.github.io/posts/Paper/Denoising_diffusion_probabilistic_models.html) - Aug 10, 2024<br>
+   [Information Theory](https://star77sa.github.io/posts/Information_Theory/info_study.html) - Aug 09, 2024<br>
+   
