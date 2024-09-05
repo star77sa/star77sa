@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Sep 03, 2024<br>
-                   [[Optimal Design] 2. Optimum Design Problem Formulation](https://star77sa.github.io/posts/Optimal_Design/Opt_2.html) - Sep 02, 2024<br>
-                   [[Optimal Design] 1. Introduction to Design Optimization](https://star77sa.github.io/posts/Optimal_Design/Opt_1.html) - Sep 01, 2024<br>
-                   [[Algorithm] 5. 배열](https://star77sa.github.io/posts/Algorithm/Algorithm_3.html) - Aug 29, 2024<br>
-                   [[Paper Review] Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis (2024)](https://star77sa.github.io/posts/Paper/Lithium_PINN.html) - Aug 25, 2024<br>
-                   [Data Science](https://star77sa.github.io/posts/Statistics/데이터_분석.html) - Aug 24, 2024<br>
-                   [[Algorithm] 4. 코딩 테스트 필수 문법](https://star77sa.github.io/posts/Algorithm/Algorithm_2.html) - Aug 23, 2024<br>
-                   
+[[Optimal Design] 3. Graphical Solution Method](https://star77sa.github.io/posts/Optimal_Design/Opt_3.html) - Sep 04, 2024<br>
+                            [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Sep 03, 2024<br>
+                            [[Detection and Estimation] Estimation](https://star77sa.github.io/posts/Statistics/DetnEst_mid.html) - Sep 03, 2024<br>
+                            [[Optimal Design] 2. Optimum Design Problem Formulation](https://star77sa.github.io/posts/Optimal_Design/Opt_2.html) - Sep 02, 2024<br>
+                            [[Optimal Design] 1. Introduction to Design Optimization](https://star77sa.github.io/posts/Optimal_Design/Opt_1.html) - Sep 01, 2024<br>
+                            [[Algorithm] 5. 배열](https://star77sa.github.io/posts/Algorithm/Algorithm_3.html) - Aug 29, 2024<br>
+                            [[Paper Review] Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis (2024)](https://star77sa.github.io/posts/Paper/Lithium_PINN.html) - Aug 25, 2024<br>
+                            
