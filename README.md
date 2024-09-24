@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Optimal Design] 4. Optimum Design Concepts: Optimality Conditions](https://star77sa.github.io/posts/Optimal_Design/Opt_4.html) - Sep 10, 2024<br>
-                  [[Algorithm] 6. Stack](https://star77sa.github.io/posts/Algorithm/Algorithm_4_stack.html) - Sep 06, 2024<br>
-                  [[Optimal Design] 3. Graphical Solution Method](https://star77sa.github.io/posts/Optimal_Design/Opt_3.html) - Sep 04, 2024<br>
-                  [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Sep 03, 2024<br>
-                  [[Detection and Estimation] Estimation](https://star77sa.github.io/posts/Statistics/DetnEst_mid.html) - Sep 03, 2024<br>
-                  [[Optimal Design] 2. Optimum Design Problem Formulation](https://star77sa.github.io/posts/Optimal_Design/Opt_2.html) - Sep 02, 2024<br>
-                  [[Optimal Design] 1. Introduction to Design Optimization](https://star77sa.github.io/posts/Optimal_Design/Opt_1.html) - Sep 01, 2024<br>
-                  
+                         [[Algorithm] 6. Stack](https://star77sa.github.io/posts/Algorithm/Algorithm_4_stack.html) - Sep 06, 2024<br>
+                         [[Optimal Design] 3. Graphical Solution Method](https://star77sa.github.io/posts/Optimal_Design/Opt_3.html) - Sep 04, 2024<br>
+                         [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Sep 03, 2024<br>
+                         [[Detection and Estimation] Estimation](https://star77sa.github.io/posts/Statistics/DetnEst_mid.html) - Sep 03, 2024<br>
+                         [[Optimal Design] 2. Optimum Design Problem Formulation](https://star77sa.github.io/posts/Optimal_Design/Opt_2.html) - Sep 02, 2024<br>
+                         [[Optimal Design] 1. Introduction to Design Optimization](https://star77sa.github.io/posts/Optimal_Design/Opt_1.html) - Sep 01, 2024<br>
+                         
