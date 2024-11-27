@@ -33,7 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
 
 
-- 🌱 I’m currently learning `Image Processing`, `Diffusion`
+- 🌱 I’m currently learning `PINN`, `Federated Learning`, 'Optimization'
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar77sa&count_bg=%234100EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[[Detection and Estimation] Estimation summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Sep 24, 2024<br>
-              [[Algorithm] Recursive](https://star77sa.github.io/posts/Algorithm/Algorithm_recursive.html) - Sep 19, 2024<br>
-              [[Optimal Design] 4. Optimum Design Concepts: Optimality Conditions](https://star77sa.github.io/posts/Optimal_Design/Opt_4.html) - Sep 10, 2024<br>
-              [[Algorithm] 6. Stack](https://star77sa.github.io/posts/Algorithm/Algorithm_4_stack.html) - Sep 06, 2024<br>
-              [[Optimal Design] 3. Graphical Solution Method](https://star77sa.github.io/posts/Optimal_Design/Opt_3.html) - Sep 04, 2024<br>
-              [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Sep 03, 2024<br>
-              [[Detection and Estimation] Estimation](https://star77sa.github.io/posts/Statistics/DetnEst_mid.html) - Sep 03, 2024<br>
-              
+[[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
+   [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Nov 25, 2024<br>
+   [[Detection and Estimation] Estimation summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Sep 24, 2024<br>
+   [[Algorithm] Recursive](https://star77sa.github.io/posts/Algorithm/Algorithm_recursive.html) - Sep 19, 2024<br>
+   [[Optimal Design] 4. Optimum Design Concepts: Optimality Conditions](https://star77sa.github.io/posts/Optimal_Design/Opt_4.html) - Sep 10, 2024<br>
+   [[Algorithm] 6. Stack](https://star77sa.github.io/posts/Algorithm/Algorithm_4_stack.html) - Sep 06, 2024<br>
+   [[Optimal Design] 3. Graphical Solution Method](https://star77sa.github.io/posts/Optimal_Design/Opt_3.html) - Sep 04, 2024<br>
+   
