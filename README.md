@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
-                       [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
-                       [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Nov 28, 2024<br>
-                       [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Nov 27, 2024<br>
-                       [[Paper Review] Federated learning with non-iid data: A survey (2024)](https://star77sa.github.io/posts/Federated_Learning/AFL.html) - Nov 26, 2024<br>
-                       [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
-                       [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Nov 25, 2024<br>
-                       
+                   [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
+                   [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Nov 28, 2024<br>
+                   [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Nov 27, 2024<br>
+                   [[Paper Review] Federated learning with non-iid data: A survey (2024)](https://star77sa.github.io/posts/Federated_Learning/AFL.html) - Nov 26, 2024<br>
+                   [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
+                   [Physics-informed neural networks (PINN)](https://star77sa.github.io/posts/PINN/PINN_1.html) - Nov 25, 2024<br>
+                   
