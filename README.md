@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
-                        [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
-                        [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
-                        [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
-                        [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
-                        [[Paper Review] Federated learning with non-iid data: A survey (2024)](https://star77sa.github.io/posts/Federated_Learning/AFL.html) - Nov 26, 2024<br>
-                        [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
-                        
+                          [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
+                          [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
+                          [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
+                          [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
+                          [[Paper Review] Federated learning with non-iid data: A survey (2024)](https://star77sa.github.io/posts/Federated_Learning/AFL.html) - Nov 26, 2024<br>
+                          [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
+                          
