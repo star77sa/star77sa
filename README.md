@@ -33,7 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
 
 
-- 🌱 I’m currently learning `PINN`, `Federated Learning`, `Optimization`
+- 🌱 I’m currently learning `Representation Learning`, `Time Series Data Embedding`
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar77sa&count_bg=%234100EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ## Recent blog posts
-[[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
-   [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
-   [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
-   [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
-   [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
-   [[Paper Review] Federated learning with non-iid data: A survey (2024)](https://star77sa.github.io/posts/Federated_Learning/AFL.html) - Nov 26, 2024<br>
-   [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Federated_Learning/Federated_Learning.html) - Nov 26, 2024<br>
-   
+[[Paper Review] TS2Vec: Towards universal representation of time series(AAAI 2022)](https://star77sa.github.io/posts/Paper/TS2Vec.html) - Apr 02, 2025<br>
+                      [[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
+                      [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
+                      [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
+                      [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
+                      [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
+                      [[Paper Review] Federated learning: Challenges, methods, and future directions (2020)](https://star77sa.github.io/posts/Paper/Federated_Learning.html) - Nov 26, 2024<br>
+                      
