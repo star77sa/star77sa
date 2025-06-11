@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [Network / D-N-A 기반 X+AI 서비스 실증](https://star77sa.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025<br>
-     [[Paper Review] TS2Vec: Towards universal representation of time series(AAAI 2022)](https://star77sa.github.io/posts/Paper/TS2Vec.html) - Apr 02, 2025<br>
-     [[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
-     [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
-     [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
-     [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
-     [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
-     
+                            [[Paper Review] TS2Vec: Towards universal representation of time series(AAAI 2022)](https://star77sa.github.io/posts/Paper/TS2Vec.html) - Apr 02, 2025<br>
+                            [[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
+                            [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
+                            [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
+                            [[Detection and Estimation] Lec 7~14 summary](https://star77sa.github.io/posts/Statistics/DetnEst_final_summary.html) - Dec 04, 2024<br>
+                            [[Detection and Estimation] Lec 1~6 summary](https://star77sa.github.io/posts/Statistics/DetnEst_mid_summary.html) - Dec 03, 2024<br>
+                            
