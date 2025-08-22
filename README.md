@@ -56,9 +56,10 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 [[Paper Review] Dual Cone Gradient Descent for Training Physics-Informed Neural Networks(NeurIPS 2024)](https://star77sa.github.io/posts/PINN/DCGD.html) - Jul 23, 2025<br>
-[[Paper Review] Contrastive Learning based Semantic Communication for Wireless Image Transmission (VTC2023)](https://star77sa.github.io/posts/Contrastive_Learning/Contrastive_Learning_based_Semantic_Communication_for_Wireless_Image_Transmission.html) - May 18, 2025<br>
-[Network / D-N-A 기반 X+AI 서비스 실증](https://star77sa.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025<br>
-[[Paper Review] TS2Vec: Towards universal representation of time series(AAAI 2022)](https://star77sa.github.io/posts/etc/TS2Vec.html) - Apr 02, 2025<br>
-[[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
-[[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
-[[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
+                [[Paper Review] Contrastive Learning based Semantic Communication for Wireless Image Transmission (VTC2023)](https://star77sa.github.io/posts/Contrastive_Learning/Contrastive_Learning_based_Semantic_Communication_for_Wireless_Image_Transmission.html) - May 18, 2025<br>
+                [Network / D-N-A 기반 X+AI 서비스 실증](https://star77sa.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025<br>
+                [[Paper Review] TS2Vec: Towards universal representation of time series(AAAI 2022)](https://star77sa.github.io/posts/etc/TS2Vec.html) - Apr 02, 2025<br>
+                [[Optimal Design] 12. Numerical method for constrained optimum design](https://star77sa.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<br>
+                [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<br>
+                [[Optimal Design] 10. Numerical Methods for Unconstrained Optimum Design](https://star77sa.github.io/posts/Optimal_Design/Opt_10.html) - Dec 12, 2024<br>
+                
