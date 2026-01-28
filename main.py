@@ -7,7 +7,7 @@ markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=KyeongSoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 
-- Name : KyeongSoo Ko         
+- Name : Kyeongsoo Ko         
 - Email : ksko0424@gm.gist.ac.kr 
 - Education:
   - GIST M.S. in AI Graduate School
