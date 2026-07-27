@@ -27,7 +27,7 @@ Physical AI · Robot Perception · 3D Gaussian Splatting · VLM/LLM · SLAM
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NeRF ~ 3D Gaussian Splatting](https://ksko0424.github.io/posts/3D_Reconstructure/Gaussian_Splatting.html) - Jul 20, 2026
+- [NeRF to 3D Gaussian Splatting](https://ksko0424.github.io/posts/3D_Reconstructure/Gaussian_Splatting.html) - Jul 20, 2026
 - [[Paper Review] VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](https://ksko0424.github.io/posts/VLA/VL-Nav.html) - Mar 27, 2026
 - [[Paper Review] OmniVLA: An omni-modal vision-language-action model for robot navigation](https://ksko0424.github.io/posts/VLA/OmniVLA.html) - Mar 12, 2026
 - [[Paper Review] Dual Cone Gradient Descent for Training Physics-Informed Neural Networks&lpar;NeurIPS 2024&rpar;](https://ksko0424.github.io/posts/PINN/DCGD.html) - Jul 25, 2025<!-- BLOG-POST-LIST:END -->
