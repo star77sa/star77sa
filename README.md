@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Kyeongsoo%20Ko&fontColor=FFFFFF&fontSize=70&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=header&text=&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
 ### Robotics AI Researcher @ KETI — Physical AI · Robot Perception
 > Building robot perception on a foundation of statistics & optimization:
