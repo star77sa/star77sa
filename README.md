@@ -1,28 +1,33 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=header&text=&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 
-### Robotics AI Researcher @ KETI — Physical AI · Robot Perception
-> Building robot perception on a foundation of statistics & optimization:
-> 3D Gaussian Splatting, VLM/LLM reasoning
+# Kyeongsoo Ko
 
-- 🔭 Now: 3DGS + VLM embodied perception & change-robust relocalization @ KETI
-- 🎓 M.S. in AI (GIST) · B.S. Statistics & CS, double major (JBNU)
+### Robotics AI Researcher @ KETI — 3D Reconstruction · Localization · Robot Perception
+> Building robot perception on a foundation of statistics & AI:
+
+- Now: Researcher @ KETI
+- M.S. in AI, GIST · B.S. in Statistics & Computer Science, JBNU
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.github.io/)](https://ksko0424.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksko0424)](https://www.linkedin.com/in/ksko0424)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksko0424@gmail.com)](mailto:ksko0424@gmail.com)
 
-## 🧭 Research Interests
-Physical AI · Robot Perception · 3D Gaussian Splatting · VLM/LLM · SLAM
+## Research Focus
 
-## 🏆 Awards
-  - Minister of Education Award, 2022 WE-MEET Project
-  - 1st Award, 2022 Dataton Competition
-  - 1st Award, The 1st JBNU Statistics Bigdata Analysis Competition
-  - 2nd Award, The 2nd JBNU Statistics Bigdata Analysis Competition
-  - 2nd Award, Data Creator Camp Hackathon
-  - Encouragement Award, 2025 GIST AI+Security Joint Seminar
-  - JBNU President's Award (2021 Academic Excellence Award)
+- **3D Reconstruction:** 3D Gaussian Splatting, metric scene representations, reconstruction-aware evaluation
+- **Localization / SLAM:** visual localization, map-based LiDAR localization, pose estimation, long-term localization
+- **Robot Perception:** multi-view spatial evidence, VLM-based embodied reasoning, simulation and real-robot validation
+- **Foundations:** statistical estimation, optimization, uncertainty-aware evaluation
+
+## Awards
+- Minister of Education Award — 2022 WE-MEET Project, Big Data Track
+- Grand Prize (대상) — 2022 Dataton Competition
+- Best Award (최우수상) — JBNU Statistics Big-Data Analysis Competition, Winter 2022
+- Excellence Award (우수상) — JBNU Statistics Big-Data Analysis Competition, Summer 2022
+- Best Award (최우수상), NIA President's Award — Data Creator Camp, 2021
+- Encouragement Award (장려상) — GIST AI+Security Joint Seminar, 2025
+- President's Award for Academic Excellence — Jeonbuk National University
 
 
 ## Recent blog posts
